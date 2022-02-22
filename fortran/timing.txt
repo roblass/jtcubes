@@ -1,0 +1,5 @@
+$ time ./50x50x50.exe
+ The number of first neighbors is      2175600
+ The dimensions of the box are           50          50          50
+ The total number of points is       125000
+./50x50x50.exe  20.40s user 0.03s system 97% cpu 20.993 total
