@@ -1,0 +1,5 @@
+time python numpy_box.py 50 50 50
+The number of first neighbors is 2175600
+The dimensions of the box are 50, 50, 50
+The total number of points is 125000
+python numpy_box.py 50 50 50  27.45s user 0.27s system 102% cpu 27.150 total

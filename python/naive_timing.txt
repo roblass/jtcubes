@@ -1,0 +1,5 @@
+$ time python naive_box.py 30 30 30
+The number of first neighbors is 459360
+The dimensions of the box are 30, 30, 30
+The total number of points is 27000
+python naive_box.py 30 30 30  696.81s user 1.08s system 99% cpu 11:40.12 total
